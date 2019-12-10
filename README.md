@@ -4,7 +4,7 @@
 * css
 * php
 ## Link of the page 
-<url> ""
+<url> "http://localhost/php_simple_order_form/index.php?food=1"
   
   # Author :
   ## Moumita Basak
